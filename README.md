@@ -5,6 +5,5 @@
   - 인터뷰 사전 질의를 작성하면서 개인적으로 공부가 되었던 부분을 정리하였습니다.
 
 
-[2. JPA]
-(https://github.com/SeolYoungKim/TIL/tree/main/JPA)
+[2. JPA](https://github.com/SeolYoungKim/TIL/tree/main/JPA)
   - Spring Web MVC를 이용해 CRUD를 구현해볼 때, JPA 기본 개념과 연관관계 매핑 개념을 정리하였습니다. 
