@@ -1,0 +1,20 @@
+- `vim ./.git/config` : git의 설정을 알 수 있다.
+- `git status` : git 상태를 볼 수 있다.
+- `git diff 파일경로` : 해당 파일의 변경 상태를 볼 수 있다.
+- `git add 파일경로` : 파일을 스테이지에 올린다
+- `git reset` : 커밋을 초기화 한다
+- `git commit -m "메시지"` : 커밋을 한다.
+- `git push` : 깃 허브에 올린다.
+- `git checkout -b 신규브랜치명` : 새로운 브랜치를 생성한다.
+    - `git checkout 브랜치명` : 해당 브랜치로 이동한다.
+- `git branch` : 브랜치의 상황이 출력된다.
+- `git push -u origin 브랜치명` : 해당하는 브랜치에 push한다.
+- `git merge 브랜치명` : 해당 브랜치가 main 브랜치로 머지된다
+    - `git merge --no-ff --log 브랜치명` : 머지 커밋 생성
+- `git reset --hard 커밋해쉬코드` : 해쉬코드를 가진 커밋으로 돌아간다.
+
+- conflict 해결
+    - `git rebase main` : 메인 브랜치의 마지막 최신 브랜치를 내 브랜치의 아래로 가져옴
+        - `git rebase --continue` : 작업을 계속함
+    - main 브랜치에서 다시 서브 브랜치를 merge한다.
+    - 다시 깔끔하게 브랜치가 완성된다.
