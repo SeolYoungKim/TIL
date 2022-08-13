@@ -15,3 +15,7 @@
 
 [4. QueryDSL](https://github.com/SeolYoungKim/TIL/blob/main/QueryDSL/QueryDSL.md)
   - QueryDSL 문법을 정리하였습니다.
+
+
+[5. enum](https://github.com/SeolYoungKim/TIL/tree/main/enum)
+  - Enum에 대한 내용을 정리하였습니다.
