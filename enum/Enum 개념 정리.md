@@ -2,7 +2,6 @@
 
 ## 1. Enum이란?
 
----
 
 - 서로 연관된 상수를 편리하게 선언하기 위한 것
 - 여러 상수를 정의할 때 사용하면 유용함
@@ -34,7 +33,7 @@ class Card {
 
 ## 2. Enum의 정의와 사용
 
----
+
 
 - 정의하는 방법
     
@@ -64,7 +63,7 @@ class Card {
 
 ## 3. java.lang.Enum
 
----
+
 
 ```java
 enum Direction { EAST, WEST }
@@ -88,7 +87,7 @@ enum Direction { EAST, WEST }
 
 ## 4. Enum에 멤버 추가
 
----
+
 
 - Enum 클래스에 정의된 ordinal() → Enum 상수가 정의된 순서를 반환
     - 하지만, 해당 값을 Enum 의 상수 값으로 사용하지 않는 것이 좋음
@@ -156,7 +155,7 @@ enum Direction { EAST, WEST }
 
 ## 5. Enum에 추상 메서드 추가
 
----
+
 
 ```java
 enum Transportation {
@@ -220,7 +219,7 @@ enum Transportation {
 
 ## 6. Enum의 이해
 
----
+
 
 - Enum은 내부적으로 어떻게 구현되어 있는가?
     
@@ -265,7 +264,7 @@ enum Transportation {
 
 ### 참고
 
----
+
 
 - 자바의 정석 책
 
