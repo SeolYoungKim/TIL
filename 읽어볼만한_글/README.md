@@ -3,3 +3,5 @@
 [외래키를 사용하지 않는 이유](https://co1nam.tistory.com/44)
 
 [Java deep dive](https://code-run.tistory.com/61)
+
+[DB 설계하는 법 - 데이터 모델링](https://yeongunheo.tistory.com/m/entry/DB-설계하는-법-feat-데이터-모델링)
