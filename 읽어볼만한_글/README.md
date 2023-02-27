@@ -5,3 +5,5 @@
 [Java deep dive](https://code-run.tistory.com/61)
 
 [DB 설계하는 법 - 데이터 모델링](https://yeongunheo.tistory.com/m/entry/DB-설계하는-법-feat-데이터-모델링)
+
+[자바 AOP의 모든 것](https://jiwondev.tistory.com/152)
