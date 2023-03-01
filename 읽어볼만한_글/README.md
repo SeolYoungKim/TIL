@@ -9,3 +9,5 @@
 [자바 AOP의 모든 것](https://jiwondev.tistory.com/152)
 
 [쿠버네티스를 사용하는 이유](https://junghyungil.tistory.com/m/215)
+
+[MAS 아키텍처란?](https://steady-coding.tistory.com/595)
