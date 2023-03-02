@@ -15,3 +15,5 @@
 [테스트에 대한 오해와 사실](https://jbee.io/developments/misconception-and-facts-about-testing/)
 
 [19년 차 개발자가 고찰한 주니어 개발자가 성장하기 좋은 환경](https://f-lab.kr/blog/criteria-choosing-company-for-developers)
+
+[API와 SDK의 차이](https://change-words.tistory.com/entry/API-SDK-%EC%B0%A8%EC%9D%B4)
