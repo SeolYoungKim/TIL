@@ -21,3 +21,5 @@
 [테스트 코드에서의 @Transactional](https://www.inflearn.com/questions/792383/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-transactional-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%B4-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 [신입 개발자의 파일럿 프로덕트](https://techblog.woowahan.com/10600/)
+
+[주니어 개발자를 위한 엄청 쉬운 네트워크 이야기](https://yozm.wishket.com/magazine/detail/1875/이야기/?fbclid=IwAR0yK85E5A4cjN-BmT-2CqQ_gWSkvBZUBKUoEbXGIY5NRBtJlEzgk0l6qdA)
