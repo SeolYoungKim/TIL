@@ -23,3 +23,7 @@
 [신입 개발자의 파일럿 프로덕트](https://techblog.woowahan.com/10600/)
 
 [주니어 개발자를 위한 엄청 쉬운 네트워크 이야기](https://yozm.wishket.com/magazine/detail/1875/이야기/?fbclid=IwAR0yK85E5A4cjN-BmT-2CqQ_gWSkvBZUBKUoEbXGIY5NRBtJlEzgk0l6qdA)
+
+[성능 테스트 가이드](https://velog.io/@sontulip/performance-test)
+
+[OTT 콘텐츠와 웹](https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html?utm_source=oneoneone#drm)
