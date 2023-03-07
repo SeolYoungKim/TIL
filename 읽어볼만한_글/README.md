@@ -29,3 +29,5 @@
 [OTT 콘텐츠와 웹](https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html?utm_source=oneoneone#drm)
 
 [JVM Internal](https://d2.naver.com/helloworld/1230)
+
+[개발자의 4가지 기본 소양](https://yozm.wishket.com/magazine/detail/1921/?fbclid=IwAR3b-dJHaig-VdVwfQDBmsYv68n0NRzVzimEtUDCc-XRturvKXR9TJtGFSg)
