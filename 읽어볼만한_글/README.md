@@ -27,3 +27,5 @@
 [성능 테스트 가이드](https://velog.io/@sontulip/performance-test)
 
 [OTT 콘텐츠와 웹](https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html?utm_source=oneoneone#drm)
+
+[JVM Internal](https://d2.naver.com/helloworld/1230)
