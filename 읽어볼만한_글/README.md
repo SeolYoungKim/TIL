@@ -31,3 +31,7 @@
 [JVM Internal](https://d2.naver.com/helloworld/1230)
 
 [개발자의 4가지 기본 소양](https://yozm.wishket.com/magazine/detail/1921/?fbclid=IwAR3b-dJHaig-VdVwfQDBmsYv68n0NRzVzimEtUDCc-XRturvKXR9TJtGFSg)
+
+[stackoverflow.com 서버는 어떻게 이뤄져 있을까?](https://careerly.co.kr/comments/78185?from=comment&section=top10&order=1&fromArea=)
+
+[자주 보는 개발 설계 패턴](https://careerly.co.kr/comments/78185?from=comment&section=top10&order=1&fromArea=)
