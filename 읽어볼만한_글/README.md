@@ -35,3 +35,5 @@
 [stackoverflow.com 서버는 어떻게 이뤄져 있을까?](https://careerly.co.kr/comments/78185?from=comment&section=top10&order=1&fromArea=)
 
 [자주 보는 개발 설계 패턴](https://careerly.co.kr/comments/78185?from=comment&section=top10&order=1&fromArea=)
+
+[Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](http://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html?m=1)
