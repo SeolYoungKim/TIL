@@ -37,3 +37,5 @@
 [자주 보는 개발 설계 패턴](https://careerly.co.kr/comments/78185?from=comment&section=top10&order=1&fromArea=)
 
 [Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?](http://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html?m=1)
+
+[탈 자바 8과 스프링 부트 3.0을 위한 NIO HttpClient를 찾아서](https://netmarble.engineering/java-nio-httpclient-test/?utm_source=oneoneone)
