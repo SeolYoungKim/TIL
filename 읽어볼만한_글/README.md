@@ -40,7 +40,8 @@
 
 [탈 자바 8과 스프링 부트 3.0을 위한 NIO HttpClient를 찾아서](https://netmarble.engineering/java-nio-httpclient-test/?utm_source=oneoneone)
 
-[분산 시스템 환경 (Distributed System) 에서 BASE 원칙과 CAP 정리
-](https://jins-dev.tistory.com/m/entry/%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%99%98%EA%B2%BD-Distributed-System-%EC%97%90%EC%84%9C-BASE-%EC%9B%90%EC%B9%99%EA%B3%BC-CAP-%EC%A0%95%EB%A6%AC)
+[분산 시스템 환경 (Distributed System) 에서 BASE 원칙과 CAP 정리](https://jins-dev.tistory.com/m/entry/%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%99%98%EA%B2%BD-Distributed-System-%EC%97%90%EC%84%9C-BASE-%EC%9B%90%EC%B9%99%EA%B3%BC-CAP-%EC%A0%95%EB%A6%AC)
 
 [Redis를 활용한 선착순 쿠폰 발급 서버 설계](https://jgrammer.tistory.com/m/entry/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EC%84%9C%EB%B2%84-%EC%84%A4%EA%B3%84)
+
+[TestContainers로 유저시나리오와 비슷한 통합테스트 만들어 보기](https://helloworld.kurly.com/blog/delivery-testContainer-apply/)
