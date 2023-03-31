@@ -47,3 +47,6 @@
 [TestContainers로 유저시나리오와 비슷한 통합테스트 만들어 보기](https://helloworld.kurly.com/blog/delivery-testContainer-apply/)
 
 [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking?utm_source=oneoneone)
+
+[일 잘하는 사람들의 특징](https://brunch.co.kr/@seunghoon82/192)
+
