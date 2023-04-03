@@ -50,3 +50,4 @@
 
 [일 잘하는 사람들의 특징](https://brunch.co.kr/@seunghoon82/192)
 
+[git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247)
