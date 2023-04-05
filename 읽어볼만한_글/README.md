@@ -51,3 +51,5 @@
 [일 잘하는 사람들의 특징](https://brunch.co.kr/@seunghoon82/192)
 
 [git add -p와 git commit -v의 사용](https://blog.outsider.ne.kr/1247)
+
+[[AWS] 가장쉽게 VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
