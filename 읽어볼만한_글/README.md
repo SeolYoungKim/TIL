@@ -55,3 +55,5 @@
 [[AWS] 가장쉽게 VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
 
 [기업들은 왜 코틀린을 선택하였나?](https://velog.io/@oune/%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%80-%EC%99%9C-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EC%98%80%EC%9D%84%EA%B9%8C?utm_source=oneoneone)
+
+[커밋 메세지 컨벤션은 왜 중요할까?](https://yozm.wishket.com/magazine/detail/1974/?utm_source=oneoneone)
