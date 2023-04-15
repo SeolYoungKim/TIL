@@ -57,3 +57,5 @@
 [기업들은 왜 코틀린을 선택하였나?](https://velog.io/@oune/%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%80-%EC%99%9C-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%98%EC%98%80%EC%9D%84%EA%B9%8C?utm_source=oneoneone)
 
 [커밋 메세지 컨벤션은 왜 중요할까?](https://yozm.wishket.com/magazine/detail/1974/?utm_source=oneoneone)
+
+[Reference Count를 통한 Netty의 ByteBuf memory 관리](https://effectivesquid.tistory.com/entry/Reference-Count%EB%A5%BC-%ED%86%B5%ED%95%9C-Netty%EC%9D%98-ByteBuf-memory-%EA%B4%80%EB%A6%AC)
