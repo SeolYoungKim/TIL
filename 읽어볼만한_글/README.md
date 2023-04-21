@@ -63,3 +63,5 @@
 [Rebase와 Conflict 해결 방법](https://wonyong-jang.github.io/git/2021/02/05/Github-Rebase.html)
 
 [주니어 웹 개발자가 알아야 할 ‘비동기 통신’](https://yozm.wishket.com/magazine/detail/1982/?utm_source=oneoneone)
+
+[ThreadLocal 클래스](https://junhyunny.github.io/java/thread-local-class-in-java/)
