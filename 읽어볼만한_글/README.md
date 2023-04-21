@@ -61,3 +61,5 @@
 [Reference Count를 통한 Netty의 ByteBuf memory 관리](https://effectivesquid.tistory.com/entry/Reference-Count%EB%A5%BC-%ED%86%B5%ED%95%9C-Netty%EC%9D%98-ByteBuf-memory-%EA%B4%80%EB%A6%AC)
 
 [Rebase와 Conflict 해결 방법](https://wonyong-jang.github.io/git/2021/02/05/Github-Rebase.html)
+
+[주니어 웹 개발자가 알아야 할 ‘비동기 통신’](https://yozm.wishket.com/magazine/detail/1982/?utm_source=oneoneone)
