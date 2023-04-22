@@ -65,3 +65,5 @@
 [주니어 웹 개발자가 알아야 할 ‘비동기 통신’](https://yozm.wishket.com/magazine/detail/1982/?utm_source=oneoneone)
 
 [ThreadLocal 클래스](https://junhyunny.github.io/java/thread-local-class-in-java/)
+
+[LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes)
