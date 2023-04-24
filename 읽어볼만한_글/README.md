@@ -69,3 +69,5 @@
 [LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes)
 
 [Facade Pattern 적용기](https://velog.io/@lsj8367/Facade-Pattern-%EC%A0%81%EC%9A%A9%EA%B8%B0)
+
+[테스트에 대한 오해와 사실](https://jbee.io/developments/misconception-and-facts-about-testing/)
