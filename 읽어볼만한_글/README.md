@@ -71,3 +71,5 @@
 [Facade Pattern 적용기](https://velog.io/@lsj8367/Facade-Pattern-%EC%A0%81%EC%9A%A9%EA%B8%B0)
 
 [테스트에 대한 오해와 사실](https://jbee.io/developments/misconception-and-facts-about-testing/)
+
+[면접관 관점에서 본 좋은 개발자 블로그](https://f-lab.kr/blog/developer-blog-tips)
