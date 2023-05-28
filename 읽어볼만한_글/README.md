@@ -79,3 +79,5 @@
 [하루 트래픽이 5배 이상 늘어난 날, 서버 개발팀의 대응 기록](https://medium.com/athenaslab/%ED%95%98%EB%A3%A8-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%B4-5%EB%B0%B0-%EC%9D%B4%EC%83%81-%EB%8A%98%EC%96%B4%EB%82%9C-%EB%82%A0-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%EB%8C%80%EC%9D%91-%EA%B8%B0%EB%A1%9D-767da6ac4efe)
 
 [개발자 생활 첫 10년, 이 세 가지가 중요합니다](https://yozm.wishket.com/magazine/detail/2025/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
+
+[트렌드에 휩쓸리지 않기](https://okjsp.tistory.com/1165644358)
