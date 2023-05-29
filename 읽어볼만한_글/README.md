@@ -81,3 +81,5 @@
 [개발자 생활 첫 10년, 이 세 가지가 중요합니다](https://yozm.wishket.com/magazine/detail/2025/?utm_source=stibee&utm_medium=email&utm_campaign=newsletter_yozm&utm_content=contents)
 
 [트렌드에 휩쓸리지 않기](https://okjsp.tistory.com/1165644358)
+
+[취업과 이직을 위한 코딩테스트 문제 풀이 전략](https://katfun.tistory.com/226)
