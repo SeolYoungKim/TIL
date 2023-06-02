@@ -83,3 +83,5 @@
 [트렌드에 휩쓸리지 않기](https://okjsp.tistory.com/1165644358)
 
 [취업과 이직을 위한 코딩테스트 문제 풀이 전략](https://katfun.tistory.com/226)
+
+[Spring Boot + Kubernetes 기반에서 웜업 적용하기](https://engineering.linecorp.com/ko/blog/apply-warm-up-in-spring-boot-and-kubernetes)
