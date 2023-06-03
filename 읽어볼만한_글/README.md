@@ -85,3 +85,5 @@
 [취업과 이직을 위한 코딩테스트 문제 풀이 전략](https://katfun.tistory.com/226)
 
 [Spring Boot + Kubernetes 기반에서 웜업 적용하기](https://engineering.linecorp.com/ko/blog/apply-warm-up-in-spring-boot-and-kubernetes)
+
+[잘하는 개발자가 되는 그라데이션 사고법 (추상화 계층과 데이터 흐름 이해하기)](https://velog.io/@teo/gradation-thinking?utm_source=oneoneone)
