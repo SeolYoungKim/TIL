@@ -89,3 +89,5 @@
 [잘하는 개발자가 되는 그라데이션 사고법 (추상화 계층과 데이터 흐름 이해하기)](https://velog.io/@teo/gradation-thinking?utm_source=oneoneone)
 
 [촉촉한 코드, 건조한 코드](https://velog.io/@gomjellie/The-Wet-Codebase)
+
+[개발자가 갖추어야 할 9가지 기술](https://youtu.be/fHyTA-UIcqs)
