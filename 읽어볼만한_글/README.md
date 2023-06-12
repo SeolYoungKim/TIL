@@ -93,3 +93,5 @@
 [개발자가 갖추어야 할 9가지 기술](https://youtu.be/fHyTA-UIcqs)
 
 [토스 SLASH 23 영상 모음집](https://oneoneone.kr/content/ce12246d?utm_source=kakao)
+
+[Latest Java Garbage Collection](https://meetup.nhncloud.com/posts/367)
