@@ -95,3 +95,5 @@
 [토스 SLASH 23 영상 모음집](https://oneoneone.kr/content/ce12246d?utm_source=kakao)
 
 [Latest Java Garbage Collection](https://meetup.nhncloud.com/posts/367)
+
+[[MySQL] 프라이머리 키(PK, Primary Key)에 대해 쉽고 완벽하게 이해하기](https://mangkyu.tistory.com/285)
