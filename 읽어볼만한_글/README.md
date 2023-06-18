@@ -97,3 +97,5 @@
 [[MySQL] 프라이머리 키(PK, Primary Key)에 대해 쉽고 완벽하게 이해하기](https://mangkyu.tistory.com/285)
 
 [거절 100번 당하기 연습: 성장의 원동력](https://dwan.kim/100-rejections/?r=geeknews)
+
+[개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/?utm_source=oneoneone)
