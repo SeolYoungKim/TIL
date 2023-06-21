@@ -99,3 +99,5 @@
 [거절 100번 당하기 연습: 성장의 원동력](https://dwan.kim/100-rejections/?r=geeknews)
 
 [개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/?utm_source=oneoneone)
+
+[HikariCP Dead lock에서 벗어나기 (이론편)](https://techblog.woowahan.com/2664/)
