@@ -101,3 +101,5 @@
 [개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/?utm_source=oneoneone)
 
 [HikariCP Dead lock에서 벗어나기 (이론편)](https://techblog.woowahan.com/2664/)
+
+[효과적인 코드리뷰를 위한 리뷰어의 자세](https://tech.kakao.com/2022/03/17/2022-newkrew-onboarding-codereview/)
