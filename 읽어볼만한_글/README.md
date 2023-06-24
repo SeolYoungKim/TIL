@@ -105,3 +105,5 @@
 [효과적인 코드리뷰를 위한 리뷰어의 자세](https://tech.kakao.com/2022/03/17/2022-newkrew-onboarding-codereview/)
 
 [우아한 테크코스 - 스프링 이벤트](https://youtu.be/TJUIkLFpgGo)
+
+[CPU는 어떻게 작동할까](https://www.youtube.com/watch?v=Fg00LN30Ezg&t=469s)
