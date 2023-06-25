@@ -107,3 +107,5 @@
 [우아한 테크코스 - 스프링 이벤트](https://youtu.be/TJUIkLFpgGo)
 
 [CPU는 어떻게 작동할까](https://www.youtube.com/watch?v=Fg00LN30Ezg&t=469s)
+
+[좋은 함수 만들기 - Null 을 다루는 방법](https://jojoldu.tistory.com/721)
