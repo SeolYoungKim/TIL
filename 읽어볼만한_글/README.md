@@ -94,7 +94,7 @@
 
 [토스 SLASH 23 영상 모음집](https://oneoneone.kr/content/ce12246d?utm_source=kakao)
 
-[[MySQL] 프라이머리 키(PK, Primary Key)에 대해 쉽고 완벽하게 이해하기](https://mangkyu.tistory.com/285)
+[MySQL 프라이머리 키(PK, Primary Key)에 대해 쉽고 완벽하게 이해하기](https://mangkyu.tistory.com/285)
 
 [거절 100번 당하기 연습: 성장의 원동력](https://dwan.kim/100-rejections/?r=geeknews)
 
@@ -104,8 +104,10 @@
 
 [효과적인 코드리뷰를 위한 리뷰어의 자세](https://tech.kakao.com/2022/03/17/2022-newkrew-onboarding-codereview/)
 
-[우아한 테크코스 - 스프링 이벤트](https://youtu.be/TJUIkLFpgGo)
+[영상-우아한 테크코스 - 스프링 이벤트](https://youtu.be/TJUIkLFpgGo)
 
-[CPU는 어떻게 작동할까](https://www.youtube.com/watch?v=Fg00LN30Ezg&t=469s)
+[영상-CPU는 어떻게 작동할까](https://www.youtube.com/watch?v=Fg00LN30Ezg&t=469s)
 
 [좋은 함수 만들기 - Null 을 다루는 방법](https://jojoldu.tistory.com/721)
+
+[쿼리 최적화: 빠른 쿼리를 위한 7가지 체크리스트 ✅](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
