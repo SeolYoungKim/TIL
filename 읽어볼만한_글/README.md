@@ -115,3 +115,7 @@
 [쏘카의 대규모 인증토큰 트래픽 대응 : 개발기](https://tech.socarcorp.kr/dev/2023/06/27/handling-authentication-token-traffic-01.html?utm_source=oneoneone)
 
 [영상-섬세한 ISFP의 코드 가독성 개선 경험](https://if.kakao.com/2022/session/80)
+
+[당신이 성장하지 못하는 이유](https://yozm.wishket.com/magazine/detail/1986/)
+
+[코드 리뷰어를 하며 저지른 실수 7가지](https://yozm.wishket.com/magazine/detail/2095/?utm_source=oneoneone)
