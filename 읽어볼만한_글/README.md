@@ -125,3 +125,5 @@
 [좋은 객체 ID(Object ID) 만들기](https://velog.io/@tosspayments/%EC%A2%8B%EC%9D%80-%EA%B0%9D%EC%B2%B4-IDObject-ID-%EB%A7%8C%EB%93%A4%EA%B8%B0?utm_source=oneoneone)
 
 [프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기](https://yozm.wishket.com/magazine/detail/2106/?utm_source=oneoneone)
+
+[제목은 Spring Session 도입기로 하겠습니다. 근데 이제 Redis를 곁들인](https://zuminternet.github.io/spring-session/?utm_source=oneoneone)
