@@ -127,3 +127,5 @@
 [프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기](https://yozm.wishket.com/magazine/detail/2106/?utm_source=oneoneone)
 
 [제목은 Spring Session 도입기로 하겠습니다. 근데 이제 Redis를 곁들인](https://zuminternet.github.io/spring-session/?utm_source=oneoneone)
+
+[HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
