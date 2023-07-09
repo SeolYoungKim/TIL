@@ -129,3 +129,5 @@
 [제목은 Spring Session 도입기로 하겠습니다. 근데 이제 Redis를 곁들인](https://zuminternet.github.io/spring-session/?utm_source=oneoneone)
 
 [HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+
+[Virtual Thread란 무엇일까?](https://findstar.pe.kr/2023/04/17/java-virtual-threads-1/)
