@@ -131,3 +131,5 @@
 [HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 
 [Virtual Thread란 무엇일까?](https://findstar.pe.kr/2023/04/17/java-virtual-threads-1/)
+
+[실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test](https://tech.kakaopay.com/post/mock-test-code/)
