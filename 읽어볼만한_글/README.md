@@ -137,3 +137,5 @@
 [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처](https://techblog.woowahan.com/12720/)
 
 [분산 시스템에서 메시지 안전하게 다루기](https://blog.gangnamunni.com/post/transactional-outbox/)
+
+[당근마켓 gRPC 운영 노하우](https://www.youtube.com/watch?v=igHrQPzLVRw)
