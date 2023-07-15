@@ -141,3 +141,5 @@
 [당근마켓 gRPC 운영 노하우](https://www.youtube.com/watch?v=igHrQPzLVRw)
 
 [트위터는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](https://www.mimul.com/blog/how-twitter-handles-3000-images-per-second/)
+
+[자바 구조 패턴은 어떻게 쓰일까?](https://yozm.wishket.com/magazine/detail/2122/?utm_source=oneoneone)
