@@ -147,3 +147,5 @@
 [방향성이 명확한 노력으로 나만의 색깔을 가진 사람이 되기](https://evan-moon.github.io/2021/09/10/developer-direction-of-effort/)
 
 [HTTP 헤더로 에러 테스트하기](https://velog.io/@tosspayments/HTTP-%ED%97%A4%EB%8D%94%EB%A1%9C-%EC%97%90%EB%9F%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-zuya4t6v?utm_source=oneoneone)
+
+[당근 밋업 발표자료](https://daangn.notion.site/SRE-c62abc2b6f0347a4ace9ee9cdfc49b6b)
