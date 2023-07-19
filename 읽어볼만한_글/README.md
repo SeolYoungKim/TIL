@@ -149,3 +149,5 @@
 [HTTP 헤더로 에러 테스트하기](https://velog.io/@tosspayments/HTTP-%ED%97%A4%EB%8D%94%EB%A1%9C-%EC%97%90%EB%9F%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-zuya4t6v?utm_source=oneoneone)
 
 [당근 밋업 발표자료](https://daangn.notion.site/SRE-c62abc2b6f0347a4ace9ee9cdfc49b6b)
+
+[번역 | 주니어가 되는 것을 그만두세요.](https://hellomooneekim.netlify.app/stop-being-a-junior/)
