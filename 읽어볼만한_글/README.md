@@ -155,3 +155,5 @@
 [마이크로서비스, 그 단어의 역사](https://techblog.gccompany.co.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B7%B8-%EB%8B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC-3cce0133312)
 
 [싱글벙글 회원 서비스 성능 튜닝기](https://tech.socarcorp.kr/dev/2023/07/22/member-service-performance-tuning-01.html?utm_source=oneoneone)
+
+[나 4년 차 서버개발자, 배달의민족의 지리 체계를 뒤흔들다](https://techblog.woowahan.com/11238/?utm_source=oneoneone)
