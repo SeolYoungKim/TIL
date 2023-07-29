@@ -157,3 +157,5 @@
 [싱글벙글 회원 서비스 성능 튜닝기](https://tech.socarcorp.kr/dev/2023/07/22/member-service-performance-tuning-01.html?utm_source=oneoneone)
 
 [나 4년 차 서버개발자, 배달의민족의 지리 체계를 뒤흔들다](https://techblog.woowahan.com/11238/?utm_source=oneoneone)
+
+[변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
