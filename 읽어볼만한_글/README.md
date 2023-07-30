@@ -159,3 +159,5 @@
 [나 4년 차 서버개발자, 배달의민족의 지리 체계를 뒤흔들다](https://techblog.woowahan.com/11238/?utm_source=oneoneone)
 
 [변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
+
+[영상 - 테스트에서의 @Transactional](https://youtu.be/-961J2c1YsM)
