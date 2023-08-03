@@ -161,3 +161,5 @@
 [변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
 
 [영상 - 테스트에서의 @Transactional](https://youtu.be/-961J2c1YsM)
+
+[자바 생성 패턴을 실제 프로젝트에 적용하려면?](https://yozm.wishket.com/magazine/detail/2155/?utm_source=oneoneone)
