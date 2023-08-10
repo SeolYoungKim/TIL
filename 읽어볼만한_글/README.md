@@ -171,3 +171,5 @@
 [무엇이 개발자를 생산적이게 만드는가?](https://news.hada.io/topic?id=10222&utm_source=oneoneone)
 
 [개발자가 알아야 할 데이터 지향 프로그래밍 with JDK 20](https://yozm.wishket.com/magazine/detail/2164/?utm_source=oneoneone)
+
+[어느 순간 이직할 것인가?](https://brunch.co.kr/@javajigi/32)
