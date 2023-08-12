@@ -173,3 +173,5 @@
 [개발자가 알아야 할 데이터 지향 프로그래밍 with JDK 20](https://yozm.wishket.com/magazine/detail/2164/?utm_source=oneoneone)
 
 [어느 순간 이직할 것인가?](https://brunch.co.kr/@javajigi/32)
+
+[버릴 수 있는 용기](https://brunch.co.kr/@javajigi/33)
