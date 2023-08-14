@@ -177,3 +177,5 @@
 [버릴 수 있는 용기](https://brunch.co.kr/@javajigi/33)
 
 [개발자가 알아야 할 데이터 지향 설계](https://yozm.wishket.com/magazine/detail/2157/)
+
+[서비스개발 팀장의 일반셀러 프로젝트 진행기](https://techblog.woowahan.com/13030/?utm_source=oneoneone)
