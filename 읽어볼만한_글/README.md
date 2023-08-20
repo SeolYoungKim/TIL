@@ -183,3 +183,5 @@
 [ZGC 이해하기](https://d2.naver.com/helloworld/0128759)
 
 [우리만의 자유로운 WebFlux Practices](https://techblog.woowahan.com/12903/?utm_source=oneoneone)
+
+[이벤트 스토밍](https://devlos.tistory.com/54)
