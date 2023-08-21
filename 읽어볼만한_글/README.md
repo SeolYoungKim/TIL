@@ -185,3 +185,5 @@
 [우리만의 자유로운 WebFlux Practices](https://techblog.woowahan.com/12903/?utm_source=oneoneone)
 
 [이벤트 스토밍](https://devlos.tistory.com/54)
+
+[자바 메모리누수(with 힙덤프) 분석하기](http://honeymon.io/tech/2019/05/30/java-memory-leak-analysis.html)
