@@ -190,3 +190,5 @@
 
 [초당 1억건의 요청 S3 스케일의
 스토리지 구축 운영](https://careerly.co.kr/comments/88808?utm_source=crm&utm_medium=email&utm_campaign=newsletter_careerly_users&utm_content=newsletter230822_backend_all)
+
+[영상-구글은 어떻게 이 많은 데이터를 처리할까](https://www.youtube.com/watch?v=2RPVFhxps_s)
