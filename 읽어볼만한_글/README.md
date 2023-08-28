@@ -194,3 +194,5 @@
 [영상-구글은 어떻게 이 많은 데이터를 처리할까](https://www.youtube.com/watch?v=2RPVFhxps_s)
 
 [MySQL Ascending index vs Descending index](https://tech.kakao.com/2018/06/19/mysql-ascending-index-vs-descending-index/)
+
+[실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기](https://tech.kakaopay.com/post/mock-test-code-part-2/)
