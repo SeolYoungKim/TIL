@@ -198,3 +198,5 @@
 [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기](https://tech.kakaopay.com/post/mock-test-code-part-2/)
 
 [카카오톡 Java App Server Refactoring 후기 / 제2회 Kakao Tech Meet](https://tech.kakao.com/2023/08/01/techmeet-java-app-server-refactoring/)
+
+[혼자 보다는 함께 학습해야 하는 이유](https://yozm.wishket.com/magazine/detail/2204/?utm_source=oneoneone)
