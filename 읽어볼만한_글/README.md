@@ -202,3 +202,5 @@
 [혼자 보다는 함께 학습해야 하는 이유](https://yozm.wishket.com/magazine/detail/2204/?utm_source=oneoneone)
 
 [은행 최초 코어뱅킹 MSA 전환기](https://toss.tech/article/slash23-corebanking?utm_source=oneoneone)
+
+[좋은 유닛 테스트란 무엇일까](https://yozm.wishket.com/magazine/detail/2206/)
