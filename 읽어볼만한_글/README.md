@@ -200,3 +200,5 @@
 [카카오톡 Java App Server Refactoring 후기 / 제2회 Kakao Tech Meet](https://tech.kakao.com/2023/08/01/techmeet-java-app-server-refactoring/)
 
 [혼자 보다는 함께 학습해야 하는 이유](https://yozm.wishket.com/magazine/detail/2204/?utm_source=oneoneone)
+
+[은행 최초 코어뱅킹 MSA 전환기](https://toss.tech/article/slash23-corebanking?utm_source=oneoneone)
