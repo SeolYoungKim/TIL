@@ -204,3 +204,5 @@
 [은행 최초 코어뱅킹 MSA 전환기](https://toss.tech/article/slash23-corebanking?utm_source=oneoneone)
 
 [좋은 유닛 테스트란 무엇일까](https://yozm.wishket.com/magazine/detail/2206/)
+
+[Lock으로 사용자 기준 특정 기능 동시 실행 막기](https://youtu.be/0RLuqrmOrR4?si=TG9VGFz2x7KBgiot)
