@@ -205,4 +205,6 @@
 
 [좋은 유닛 테스트란 무엇일까](https://yozm.wishket.com/magazine/detail/2206/)
 
-[Lock으로 사용자 기준 특정 기능 동시 실행 막기](https://youtu.be/0RLuqrmOrR4?si=TG9VGFz2x7KBgiot)
+[영상 - Lock으로 사용자 기준 특정 기능 동시 실행 막기](https://youtu.be/0RLuqrmOrR4?si=TG9VGFz2x7KBgiot)
+
+[이직 4번만에 IT 대기업 합격 썰](https://velog.io/@recordsbeat/%EC%9D%B4%EC%A7%81-4%EB%B2%88%EB%A7%8C%EC%97%90-IT%EB%8C%80%EA%B8%B0%EC%97%85-%ED%95%A9%EA%B2%A9-%EC%8D%B0)
