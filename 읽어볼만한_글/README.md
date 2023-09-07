@@ -210,3 +210,5 @@
 [이직 4번만에 IT 대기업 합격 썰](https://velog.io/@recordsbeat/%EC%9D%B4%EC%A7%81-4%EB%B2%88%EB%A7%8C%EC%97%90-IT%EB%8C%80%EA%B8%B0%EC%97%85-%ED%95%A9%EA%B2%A9-%EC%8D%B0)
 
 [좋은 예외 처리](https://jojoldu.tistory.com/734)
+
+[실시간 시세 데이터 안전하고 빠르게 처리하기](https://www.youtube.com/watch?v=SF7eqlL0mjw)
