@@ -212,3 +212,5 @@
 [좋은 예외 처리](https://jojoldu.tistory.com/734)
 
 [실시간 시세 데이터 안전하고 빠르게 처리하기](https://www.youtube.com/watch?v=SF7eqlL0mjw)
+
+[테스트 코드와 @Transactional](https://velog.io/@backfox/%EA%B9%80%EC%B6%98%EB%B0%B0%EC%99%80-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-Transactional-%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8-1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C)
