@@ -216,3 +216,5 @@
 [테스트 코드와 @Transactional](https://velog.io/@backfox/%EA%B9%80%EC%B6%98%EB%B0%B0%EC%99%80-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-Transactional-%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8-1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C)
 
 [Java Stream API는 왜 for-loop보다 느릴까?](https://sigridjin.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
+
+[제품 중심 개발자](https://www.jobless.blog/product-minded-engineer/?ref=k4)
