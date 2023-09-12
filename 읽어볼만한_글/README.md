@@ -218,3 +218,5 @@
 [Java Stream API는 왜 for-loop보다 느릴까?](https://sigridjin.medium.com/java-stream-api%EB%8A%94-%EC%99%9C-for-loop%EB%B3%B4%EB%8B%A4-%EB%8A%90%EB%A6%B4%EA%B9%8C-50dec4b9974b)
 
 [제품 중심 개발자](https://www.jobless.blog/product-minded-engineer/?ref=k4)
+
+[분류로 살펴보는 DBMS 이야기](https://f-lab.kr/blog/dbms?fbclid=IwAR1JCz9mD6sv31HhxRAEuH31_viwK94mUzeSC8AIjvFJJv1KN4ABG34sL7U_aem_AW_WwAei1kcCgy-C3aIujCgML3XbL-V07WMLyK3GXLuPdyc6nxY3CsPRV1fa7iA-6To)
