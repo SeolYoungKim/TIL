@@ -222,3 +222,8 @@
 [분류로 살펴보는 DBMS 이야기](https://f-lab.kr/blog/dbms?fbclid=IwAR1JCz9mD6sv31HhxRAEuH31_viwK94mUzeSC8AIjvFJJv1KN4ABG34sL7U_aem_AW_WwAei1kcCgy-C3aIujCgML3XbL-V07WMLyK3GXLuPdyc6nxY3CsPRV1fa7iA-6To)
 
 [마이크로서비스 아키텍처를 구성하는 핵심 요소 8가지 | 무조건 MSA가 정답일까?](https://dataportal.kr/81)
+
+[영상-배치프로세스 성능 최적화](https://youtu.be/2IIwQDIi3ys?si=4bGnxjMadYctFzz7)
+
+
+
