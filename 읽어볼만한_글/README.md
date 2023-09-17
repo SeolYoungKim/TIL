@@ -225,5 +225,5 @@
 
 [영상-배치프로세스 성능 최적화](https://youtu.be/2IIwQDIi3ys?si=4bGnxjMadYctFzz7)
 
-
+[Hexagonal Architecture with Java and Spring](https://reflectoring.io/spring-hexagonal/)
 
