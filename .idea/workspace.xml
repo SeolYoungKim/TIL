@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf47094a-4937-4f8f-87fd-f2f87fef2589" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/북스터디/five_lines_of_code/1주차/chapter2_example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/북스터디/five_lines_of_code/1주차/chapter2_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/북스터디/five_lines_of_code/1주차/chapter2_example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +54,22 @@
       <workItem from="1694878838344" duration="209000" />
       <workItem from="1694879123849" duration="4000" />
       <workItem from="1695032173506" duration="3416000" />
-      <workItem from="1695121926397" duration="1223000" />
+      <workItem from="1695121926397" duration="1370000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

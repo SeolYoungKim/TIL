@@ -18,4 +18,9 @@ class Main {
 
         return false;
     }
+
+    // 단순화
+    boolean isTrue(boolean bool) {
+        return bool;
+    }
 }
