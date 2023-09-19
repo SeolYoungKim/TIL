@@ -26,7 +26,7 @@ class Refactoring1 {
 }
 
 /**
- * 상속
+ * 상속보다는 컴포지션
  */
 interface Bird {
     boolean hasBeak();
@@ -34,6 +34,9 @@ interface Bird {
     boolean canFly();
 }
 
+/**
+ * 상속을 이용하는 방법
+ */
 class CommonBird implements Bird {
     boolean hasBeak() {
         return true;
@@ -45,8 +48,22 @@ class CommonBird implements Bird {
 }
 
 class Penguin extends CommonBird {
-    @Override
     public boolean canFly() {  // 범위가 제한되지 않아 상속을 통해 얼마든지 변경될 수 있다.
         return false;
+    }
+}
+
+/**
+ * 컴포지션을 이용하는 방법
+ */
+class Penguin implements Bird {
+    Bird bird = new CommonBird();
+
+    boolean hasBeak() {
+        return bird.hasBeak();  // 컴포지션을 통해 commonBird의 hasBeak()메서드 이용
+    }
+
+    boolean canFly() {
+        return false;  // -> 결과적으로 CommonBird의 불변 속성이 깨지지 않았다.
     }
 }
