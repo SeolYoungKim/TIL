@@ -227,3 +227,4 @@
 
 [Hexagonal Architecture with Java and Spring](https://reflectoring.io/spring-hexagonal/)
 
+[로그 및 SQL 진입점 정보 추가 여정](https://techblog.woowahan.com/13429/?utm_source=oneoneone)
