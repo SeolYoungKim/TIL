@@ -6,10 +6,16 @@ class Chapter3Ex {
         for (int x = 0; x < numbers.length; x++) {
             for (int y = 0; y < numbers[x].length; y++) {
 
-                if (result > numbers[x][y]) {
-                    result = numbers[x][y];
-                }
+                result = getMinNum(numbers, result, x, y);
             }
+        }
+
+        return result;
+    }
+
+    private int getMinNum(int[][] numbers, int result, int x, int y) {
+        if (result > numbers[x][y]) {
+            result = numbers[x][y];
         }
 
         return result;
