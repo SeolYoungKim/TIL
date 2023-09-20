@@ -6,13 +6,13 @@ class Game {
         g.clearRect(0, 0, canvas.width, canvas.height);
 
         // Draw map
-        drawMap();
+        drawMap(g);
 
         // Draw player
-        drawPlayer();
+        drawPlayer(g);
     }
 
-    void drawMap() {
+    void drawMap(CanvasRenderingContext2D g) {
         for (let y = 0; y < map.length; y++) {
             for (let x = 0; x < map[y].length; x++) {
                 if (map[y][x] == Tile.FLUX) {
@@ -36,7 +36,7 @@ class Game {
         }
     }
 
-    void drawPlayer() {
+    void drawPlayer(CanvasRenderingContext2D g) {
         g.fillStyle = "#ff0000";
         g.fillRect(playerx * TILE_SIZE, playery * TILE_SIZE, TILE_SIZE, TILE_SIZE);
     }
