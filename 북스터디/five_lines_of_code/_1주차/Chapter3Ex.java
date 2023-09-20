@@ -23,10 +23,14 @@ class Chapter3Ex {
     }
 
     double calculateAverage(int[] numbers) {
-        return (double) sum(numbers) / numbers.length;
+        return (double) sum(numbers) / size(numbers);
     }
 
     private int sum(int[] numbers) {
         return Arrays.stream(numbers).sum();
+    }
+
+    private int size(int[] numbers) {
+        return numbers.length;
     }
 }
