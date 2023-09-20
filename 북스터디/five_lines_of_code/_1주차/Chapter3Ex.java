@@ -1,5 +1,7 @@
 package 북스터디.five_lines_of_code._1주차;
 
+import java.util.Arrays;
+
 class Chapter3Ex {
     int findMinNum(int[][] numbers) {
         int result = Integer.MAX_VALUE;
@@ -18,5 +20,13 @@ class Chapter3Ex {
         }
 
         return result;
+    }
+
+    double calculateAverage(int[] numbers) {
+        return (double) sum(numbers) / numbers.length;
+    }
+
+    private int sum(int[] numbers) {
+        return Arrays.stream(numbers).sum();
     }
 }
