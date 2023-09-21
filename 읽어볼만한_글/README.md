@@ -228,3 +228,6 @@
 [Hexagonal Architecture with Java and Spring](https://reflectoring.io/spring-hexagonal/)
 
 [로그 및 SQL 진입점 정보 추가 여정](https://techblog.woowahan.com/13429/?utm_source=oneoneone)
+
+[BULK 처리 Write에 집중해서 개선해보기](https://helloworld.kurly.com/blog/bulk-performance-tuning/)
+
