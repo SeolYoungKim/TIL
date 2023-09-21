@@ -12,6 +12,9 @@
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/TIL.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -147,5 +150,8 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
+
+### etc ###
+TIL.iml
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij
