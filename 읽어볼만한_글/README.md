@@ -231,3 +231,6 @@
 
 [BULK 처리 Write에 집중해서 개선해보기](https://helloworld.kurly.com/blog/bulk-performance-tuning/)
 
+[로그 및 SQL 진입점 정보 추가 여정](https://techblog.woowahan.com/13429/?fbclid=IwAR1NOhSSmngHhREUssGsqgaWzglDyRw2r8s7JTz1MmR4oqOkDxDnv1AT7UE_aem_AQssP7YOpeG90FRXA4z1J0q6SMBfRK2bpcRQtacYgLlYrNW4X-bYatF2y5CcD2XuZuw)
+
+
