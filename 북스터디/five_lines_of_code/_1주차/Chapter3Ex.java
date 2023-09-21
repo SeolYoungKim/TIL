@@ -33,4 +33,17 @@ class Chapter3Ex {
     private int size(int[] numbers) {
         return numbers.length;
     }
+
+    void reportPrimes(int number) {
+        for (int i = 0; i < number; i++) {  // 반복을 수행한다.
+            if (isPrime(number)) {  // 소수인지 체크한다.
+                System.out.printf("%d is prime.\n", number);
+            }
+        }
+    }
+
+    private boolean isPrime(int number) {
+        System.out.println("대충 소수를 판별하는 로직 (귀찮아서 구현 안한거 맞음)");
+        return true;
+    }
 }
