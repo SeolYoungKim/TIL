@@ -233,4 +233,56 @@
 
 [로그 및 SQL 진입점 정보 추가 여정](https://techblog.woowahan.com/13429/?fbclid=IwAR1NOhSSmngHhREUssGsqgaWzglDyRw2r8s7JTz1MmR4oqOkDxDnv1AT7UE_aem_AQssP7YOpeG90FRXA4z1J0q6SMBfRK2bpcRQtacYgLlYrNW4X-bYatF2y5CcD2XuZuw)
 
+[Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처](https://techblog.woowahan.com/12720/?fbclid=IwAR39H6-rcIDrQrSxrJAvXZ43IbEbHntHodWsDwB9i3JO7LzS8H6cvX1D3cY)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
