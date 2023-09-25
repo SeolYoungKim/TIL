@@ -1,4 +1,5 @@
 # 9. Query DSL
+- Query DSL은 JPQL 빌더다! 
 
 ```java
 public List<Article> getList(int page) {
