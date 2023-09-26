@@ -235,7 +235,7 @@
 
 [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처](https://techblog.woowahan.com/12720/?fbclid=IwAR39H6-rcIDrQrSxrJAvXZ43IbEbHntHodWsDwB9i3JO7LzS8H6cvX1D3cY)
 
-
+[값 객체(Value Object)를 활용하여 변경 용이성 개선하기](https://medium.com/29cm/값-객체-value-object-를-활용하여-변경-용이성-개선하기-7457787b84c0)
 
 
 
