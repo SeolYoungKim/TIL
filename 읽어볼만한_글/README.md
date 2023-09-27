@@ -237,6 +237,7 @@
 
 [값 객체(Value Object)를 활용하여 변경 용이성 개선하기](https://medium.com/29cm/값-객체-value-object-를-활용하여-변경-용이성-개선하기-7457787b84c0)
 
+[개발자의 학과 습](https://present.do/documents/64ff0be77b111b10ca480f43)
 
 
 
