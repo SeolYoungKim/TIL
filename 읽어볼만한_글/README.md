@@ -239,7 +239,7 @@
 
 [개발자의 학과 습](https://present.do/documents/64ff0be77b111b10ca480f43)
 
-
+[Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법](https://techblog.woowahan.com/11392/?utm_source=oneoneone)
 
 
 
