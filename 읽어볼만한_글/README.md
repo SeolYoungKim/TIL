@@ -241,7 +241,7 @@
 
 [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법](https://techblog.woowahan.com/11392/?utm_source=oneoneone)
 
-
+[flatMap만 사용하기는 그만! Reactor 오퍼레이터 파헤치기](https://d2.naver.com/helloworld/2771091)
 
 
 
