@@ -2,6 +2,18 @@ package 북스터디.five_lines_of_code._2주차;
 
 public enum Input {
     LEFT(){
+        void handleInput(Input input) {
+            if (input.isLeft()) {
+                moveHorizontal(-1);
+            } else if (input.isRight()) {
+                moveHorizontal(1);
+            } else if (input.isUp()) {
+                moveVertical(-1);
+            } else if (input.isDown()) {
+                moveVertical(1);
+            }
+        }
+
         @Override
         boolean isLeft() {
             return true;
@@ -23,6 +35,18 @@ public enum Input {
         }
     },
     RIGHT(){
+        void handleInput(Input input) {
+            if (input.isLeft()) {
+                moveHorizontal(-1);
+            } else if (input.isRight()) {
+                moveHorizontal(1);
+            } else if (input.isUp()) {
+                moveVertical(-1);
+            } else if (input.isDown()) {
+                moveVertical(1);
+            }
+        }
+
         @Override
         boolean isLeft() {
             return false;
@@ -44,6 +68,18 @@ public enum Input {
         }
     },
     UP(){
+        void handleInput(Input input) {
+            if (input.isLeft()) {
+                moveHorizontal(-1);
+            } else if (input.isRight()) {
+                moveHorizontal(1);
+            } else if (input.isUp()) {
+                moveVertical(-1);
+            } else if (input.isDown()) {
+                moveVertical(1);
+            }
+        }
+
         @Override
         boolean isLeft() {
             return false;
@@ -65,6 +101,18 @@ public enum Input {
         }
     },
     DOWN(){
+        void handleInput(Input input) {
+            if (input.isLeft()) {
+                moveHorizontal(-1);
+            } else if (input.isRight()) {
+                moveHorizontal(1);
+            } else if (input.isUp()) {
+                moveVertical(-1);
+            } else if (input.isDown()) {
+                moveVertical(1);
+            }
+        }
+
         @Override
         boolean isLeft() {
             return false;
