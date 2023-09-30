@@ -94,3 +94,4 @@ class ThisIsClass {
 }
 ```
 
+## 4.2 긴 if문의 리팩터링 
