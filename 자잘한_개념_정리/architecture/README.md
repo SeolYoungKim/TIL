@@ -22,5 +22,8 @@
   - **새로운 객체를 만들면 그만이다!**
   - 가격 계산기라는 추가적인 도메인을 만들어서 해결하라
 - "가격 계산"과 같이 객체로 표현하기 애매하고, 논리 로직 자체가 목적인 행위자를 **도메인 서비스라고 함**
-  - ex: `PriceCalculator`, `PriceManager`, `PriceService`... 
+  - ex: `PriceCalculator`, `PriceManager`, `PriceService`...
+- 고민 포인트
+  - 도메인 서비스가 유의미한 도메인이 될 수는 없는지를 항상 고민하라
+  - ex: `PriceCalculator`는 `Cashier`라는 도메인이 될 수 있다 
 
