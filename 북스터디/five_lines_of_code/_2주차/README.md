@@ -110,7 +110,6 @@ class ThisIsClass {
   boolean canMove(Tile start, Tile end, int dx, int dy) {
     return dx * Math.abs(start.x - end.x) == dy * Math.abs(start.y - end.y)
             || dy * Math.abs(start.x - end.x) == dx * Math.abs(start.y - end.y);
-            
   }
 
   // 전문 메서드 
@@ -118,6 +117,6 @@ class ThisIsClass {
     return Math.abs(start.x - end.x) == 0
             || Math.abs(start.y - end.y) == 0;
   }
-  
 }
 ``` 
+
