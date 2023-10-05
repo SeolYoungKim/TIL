@@ -95,3 +95,29 @@ class ThisIsClass {
 ```
 
 ## 4.2 긴 if문의 리팩터링 
+- 4.1의 규칙을 차례로 적용하여 리팩터링 수행 
+
+### 4.2.2 리팩터링 패턴: 메서드 전문화 
+- 메서드를 일반화 하면.. 
+  - 책임이 흐려짐 
+  - 다양한 위치에서 코드 호출 -> 문제 발생 여지가 있음
+- 더 전문화된 메서드
+  - 더 적은 위치에서 호출 -> 필요성이 없어질 경우 빠르게 제거 가능 
+
+```java
+class ThisIsClass {
+  // 일반적인 메서드 
+  boolean canMove(Tile start, Tile end, int dx, int dy) {
+    return dx * Math.abs(start.x - end.x) == dy * Math.abs(start.y - end.y)
+            || dy * Math.abs(start.x - end.x) == dx * Math.abs(start.y - end.y);
+            
+  }
+
+  // 전문 메서드 
+  boolean rookCanMove(Tile start, Tile end) {
+    return Math.abs(start.x - end.x) == 0
+            || Math.abs(start.y - end.y) == 0;
+  }
+  
+}
+``` 
