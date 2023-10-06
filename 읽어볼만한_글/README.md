@@ -243,7 +243,7 @@
 
 [flatMap만 사용하기는 그만! Reactor 오퍼레이터 파헤치기](https://d2.naver.com/helloworld/2771091)
 
-
+[Hibernate Fetch Join시 메모리에서 페이징 처리 사전 차단하기](https://jojoldu.tistory.com/737)
 
 
 
