@@ -17,6 +17,7 @@
 ### 자동 테스트 
 - 소프트웨어를 이용하여 자동화된 테스트 
 
+---
 
 ## 테스트의 3분류 
 ### API 테스트 (E2E)
@@ -99,3 +100,64 @@
 - 테스트 코드의 목적을 잊지 말자  
   - 회귀 버그 방지
   - 유연한 설계 
+
+---
+
+## 조언 
+### private 메소드는 테스트해야 하나?
+- NO
+- private 메소드를 테스트하고 싶은 느낌이 들 때...
+  - 사실 private 메소드가 아니었어야 한다는 의미일수도 
+  - 해당 메서드를 다른 클래스로 분리하고, 책임을 위임해서 public으로 만들라는 의미일수도
+- 이는 메소드 지향의 테스트를 할 때 자주 발생하는 문제이다
+- 테스트는 **행위에 집중해서**테스트를 하자 
+
+### final 메소드를 stub해야 하는 상황이 발생한 경우 
+- 무언가 설계가 잘못된 것 
+- final 메소드에 걸린 의존성을 약하게 하는 방법을 생각해야 함 
+
+### DRY < DAMP
+- 테스트 코드는 DRY 보다는 DAMP!
+  - DRY: Don't Repeat Yourself (반복하지 않기)
+  - DAMP: Descriptive And Meaningful Phrase (서술적이고 의미있는 문구)
+- 테스트할 때 만큼은 중복을 줄이는 것 보다는 테스트 하나하나마다 독립적이고, 서술적이며 의미있는 코드를 작성하는 것이 낫다  
+
+
+### 논리
+- 테스트에 논리를 넣지 말자 
+  - for/if/사칙연산 등을 넣지 말자는 의미
+- 테스트 코드가 오래, 그리고 많이 실행되려면 직관적이고 바로 이해가 가능하게 짜는 것이 좋다 
+
+
+---
+
+## 기법 
+### 의존성 추상화 
+- 테스트하기 어려운 의존성이 있을 때 사용 가능한 기법 
+- 다루기가 까다로운 경우(Random, Time...) 
+```mermaid
+classDiagram
+  User-->ClockHolder
+  SystemClockHolder--|>ClockHolder
+  SystemClockHolder-->Clock
+``` 
+
+- 테스트에 필요한 인스턴스를 생성하기 힘든 경우 (HttpRequest...)
+```mermaid
+classDiagram
+  ClientIpResolver-->HttpRequestWrapper
+  RealHttpRequestWrapper--|>HttpRequestWrapper
+  RealHttpRequestWrapper-->HttpRequest
+``` 
+
+- 재정의가 까다로운 경우 (final, 전역 참조...)
+```mermaid
+classDiagram
+  MyService-->Global
+  SystemGlobal--|>Global
+```
+
+
+### 이벤트 기록 
+- 테스트를 위한 getter 생성이 남발된다 싶을 때 
+- 호출된 메서드의 이벤트를 기록 
