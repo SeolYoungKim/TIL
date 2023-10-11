@@ -245,7 +245,7 @@
 
 [Hibernate Fetch Join시 메모리에서 페이징 처리 사전 차단하기](https://jojoldu.tistory.com/737)
 
-
+[만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2022/10/02/47-git/)
 
 
 
