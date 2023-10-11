@@ -194,3 +194,54 @@ expressionA && expressionB || expressionC && expressionB
 
 ## 5.4 클래스 간의 코드 통합 
 ### 5.4.1 UML 
+- Unified Modeling Language
+- 아키텍처나 일이 일어나는 순서와 같은 코드에 대한 속성을 표현하기 위해 사용하는 프레임워크
+- 표현 방법 
+```mermaid
+classDiagram
+    class Cls {
+        - text: string
+        + name: string
+        - getText(): string
+        + printText(): string
+    }
+```
+- 구현 
+```mermaid
+classDiagram
+    class A {
+        m(): void
+    }
+    
+    class B
+    B..|>A
+```
+
+- 컴포지션 
+```mermaid
+classDiagram 
+    class A {
+        - b: B
+    }
+    class B
+    B--*A
+```
+
+- 예제 다이어그램 
+```mermaid
+classDiagram
+    class Stone {
+        - fallStrategy: FallStrategy
+    }
+    
+    class Box {
+      - fallStrategy: FallStrategy
+    }
+    
+    class FallStrategy {
+        update(): void
+    }
+    
+    FallStrategy--*Stone
+    FallStrategy--*Box
+```
