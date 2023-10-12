@@ -249,7 +249,7 @@
 
 [토스는 Gateway 이렇게 씁니다](https://toss.tech/article/slash23-server?utm_source=oneoneone)
 
-
+[SQL 서버에게 String이란? - MSSQL/SQL server를 사용하면 꼭 읽어보자](https://techblog.woowahan.com/2605/)
 
 
 
