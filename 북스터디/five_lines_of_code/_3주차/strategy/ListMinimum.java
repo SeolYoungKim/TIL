@@ -11,11 +11,15 @@ public class ListMinimum {
 
     int process(List<Integer> numbers) {
         for (Integer number : numbers) {
-            if (accumulator > number) {
-                accumulator = number;
-            }
+            processElement(number);
         }
 
         return accumulator;
+    }
+
+    private void processElement(Integer number) {
+        if (accumulator > number) {
+            accumulator = number;
+        }
     }
 }
