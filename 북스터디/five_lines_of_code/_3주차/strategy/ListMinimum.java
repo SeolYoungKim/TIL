@@ -3,11 +3,10 @@ package 북스터디.five_lines_of_code._3주차.strategy;
 import java.util.List;
 
 public class ListMinimum {
-    private final MinimumProcessor minimumProcessor = new MinimumProcessor();
-    private int accumulator;
+    private final MinimumProcessor minimumProcessor;
 
     public ListMinimum(int accumulator) {
-        this.accumulator = accumulator;
+        this.minimumProcessor = new MinimumProcessor(accumulator);
     }
 
     int process(List<Integer> numbers) {
@@ -15,6 +14,6 @@ public class ListMinimum {
             minimumProcessor.processElement(number);
         }
 
-        return accumulator;
+        return minimumProcessor.getAccumulator();
     }
 }
