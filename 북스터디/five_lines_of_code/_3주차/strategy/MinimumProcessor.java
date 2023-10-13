@@ -1,6 +1,6 @@
 package 북스터디.five_lines_of_code._3주차.strategy;
 
-public class MinimumProcessor {
+public class MinimumProcessor implements ElementProcessor {
     private int accumulator;
 
     public MinimumProcessor(int accumulator) {
