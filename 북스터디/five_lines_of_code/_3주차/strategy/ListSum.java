@@ -12,13 +12,9 @@ public class ListSum {
 
     int process(List<Integer> numbers) {
         for (Integer number : numbers) {
-            processElement(number);
+            sumProcessor.processElement(number);
         }
 
         return accumulator;
-    }
-
-    private void processElement(Integer number) {
-        accumulator += number;
     }
 }
