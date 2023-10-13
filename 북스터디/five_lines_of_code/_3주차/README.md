@@ -230,6 +230,7 @@ classDiagram
 - 예제 다이어그램 
 ```mermaid
 classDiagram
+    direction RL  
     class Stone {
         - fallStrategy: FallStrategy
     }
@@ -245,3 +246,29 @@ classDiagram
     FallStrategy--*Stone
     FallStrategy--*Box
 ```
+
+### 5.4.2 리팩터링 패턴: 전략 패턴의 도입 
+```mermaid
+classDiagram
+    direction RL
+    class Context
+    class Strategy {
+        <<interface>>
+        + execute()
+    }
+    class ConcreteStrategyA
+    class ConcreteStrategyB
+    
+    Strategy--*Context
+    ConcreteStrategyA..|>Strategy
+    ConcreteStrategyB..|>Strategy
+```
+- 상태 패턴 
+  - 전략이 필드를 가지고 있는 경우
+- 특징 
+  - 클래스를 추가해서 변경이 가능하게 하는 것 
+  - 전략 패턴에서는 기능을 변경해야 하는 경우, 메서드를 추가하기 보다 새로운 클래스를 추가함
+  - 늦은 바인딩 (런타임 바인딩) 
+- 전략 패턴을 도입하는 상황
+  - 코드에 변형을 도입하고 싶어서 리팩터링을 수행하는 경우  
+  - 클래스 간의 동작을 통합하려는 경우 
