@@ -251,7 +251,7 @@
 
 [토스는 Gateway 이렇게 씁니다](https://toss.tech/article/slash23-server?utm_source=oneoneone)
 
-
+[상위 1% 엔지니어의 7가지 간단한 습관](https://news.hada.io/topic?id=11362)
 
 
 
