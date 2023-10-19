@@ -62,29 +62,29 @@ sequenceDiagram
 #### 푸시 기반 아키텍처
 ```java
 public class PushArchitecture {
-  record WebSite(String url) {
-    String generateLink(String username, String id) {
-      return url + username + id;
+    record WebSite(String url) {
+        String generateLink(String username, String id) {
+            return url + username + id;
+        }
     }
-  }
 
-  record User(String username) {
-    String generateLink(WebSite website, String id) {
-      return website.generateLink(username, id);
+    record User(String username) {
+        String generateLink(WebSite website, String id) {
+            return website.generateLink(username, id);
+        }
     }
-  }
 
-  record BlogPost(User author, String id) {
-    String generateLink(WebSite webSite) {
-      return author.generateLink(webSite, id);
+    record BlogPost(User author, String id) {
+        String generateLink(WebSite webSite) {
+            return author.generateLink(webSite, id);
+        }
     }
-  }
 
-  static class BlogService {
-    String generatePostLink(WebSite webSite, BlogPost blogPost) {
-      return blogPost.generateLink(webSite);
+    static class BlogService {
+        String generatePostLink(WebSite webSite, BlogPost blogPost) {
+            return blogPost.generateLink(webSite);
+        }
     }
-  }
 }
 ```
 ```mermaid

@@ -56,5 +56,196 @@ DELETE /users/{id}
 
 
 ## 불변성
+- 변하지 않는 성질 
+  - Value Object, 불변 객체, Immutable
+  - 순수 함수
+- 불변성을 지키면 얻을 수 있는 이점
+  - Thread-safe
+  - 복사본을 만들지 않고 공유할 수 있음 
+  - 불변 객체는 자유롭게 공유 
+- 설계를 단순화 시킬 수 있는 핵심 요소임 
 
 
+## 함수형 프로그래밍
+- 자료 처리를 수학적 함수의 계산으로 취급하고, 가변 데이터를 멀리하는 프로그래밍 패러다임
+- 사이드이펙트가 없는 immutable, pure function을 지향 
+
+
+## 사이드이펙트
+- 함수를 수행할 때 발생할 수 있는 명시적인 입출력 값 외 모든 암묵적 입출력을 의미 
+  - 예상 값 이외의 결과들 
+- 함수의 인터페이스 상에 눈에 보이는 입출력(명시적)
+  - 명시적 입력 : 매개변수
+  - 명시적 출력 : 반환값
+- 함수의 인터페이스 상에 눈에 보이지 않는 입출력(암묵적) 
+  - 암묵적 입력 : 전역 변수, 참조하는 객체의 필드 등 매개변수 외의 다른 입력값 
+  - 암묵적 출력 : 전역 변수 수정, API 호출 등 반환값 외의 다른 출력값
+
+
+## 라이브러리 vs 프레임워크 
+- 프로그램의 주도권을 누가 갖고 있느냐의 차이 
+  - 컴포넌트 생성, 호출의 주체가 누구인가?
+  - IoC Container가 있는가? 
+  - Container를 알아서 관리해주는 라이브러리 == 프레임워크
+- 라이브러리?
+  - 펀치홀로 코딩할 때 도서관에 저장해서 라이브러리라고함
+
+
+## CORS
+![img.png](img.png)
+- Cross Origin Resource Sharing
+- 아무데서나 내 서버를 함부로 호출하지 못하게 하는 정책 
+  - 웹 백엔드를 보호해주는 소중한 정책
+- API 서버가 지정한 도메인에서만 통신할 수 있도록 함
+- 브라우저단에서 동작 -> `curl`이나 `postman`을 이용한 요청은 CORS 검증을 하지 않음 
+
+```mermaid
+flowchart LR
+    A[Web Browser] -->|1.PREFLIGHT Request: OPTIONS| B[API Server]
+    B --> |2.Access Control Allow Origin: 웹브라우저의 도메인 주소|A
+```
+- 위 과정에서 CORS 허용이 되어야만 비로소 API 서버에 요청을 보낼 수 있음 
+```mermaid
+flowchart LR
+    C[Web Browser] -->|3. Request: GET| D[API Server]
+```
+
+
+## XSS 
+- Cross Site Scripting
+- 웹 애플리케이션에서 많이 발생하는 취약점 중 하나
+- 악의적인 사용자가 스크립트를 삽입하여 공격하는 기법
+
+
+## 멱등성 
+- Idempotence
+- 연산을 여러 번 적용하더라도 결과가 달라지지 않는 성질
+
+
+## 공변성
+- Covariant
+- 공변성
+  - 서브 타입이 수퍼 타입 대신 사용될 수 있는 성질
+- 반공변성
+  - 슈퍼 타입이 서브 타입 대신 사용될 수 있는 성질
+- 무공변성 
+  - 서브 타입과 슈퍼 타입이 서로 대체될 수 없는 성질
+
+```java
+interface Message {
+    String print();
+}
+class PostItMessage implements Message {
+    private String message;
+    
+    @Override
+    public String print() {
+        return message;
+    }
+}
+
+interface Super {
+    Message createNewMessage();
+    PostItMessage createNewPostItMessage();
+    void printMessage(Message message);
+    void printPostItMessage(PostItMessage message);
+}
+
+class Sub implements Super {
+    // 오버라이딩 성공
+    // Java는 리턴 타입에 대해 공변성을 지원한다 
+    @Override
+    public PostItMessage createNewMessage() {
+        return new PostItMessage();
+    }
+    
+    // 오버라이딩 실패
+    // Java는 리턴 타입에 대해 반공변성을 지원하지 않는다 
+    @Override
+    public Message createNewPostItMessage() {
+        return new PostItMessage();
+    }
+    
+    // 오버라이딩 실패
+    // Java는 파라미터 공변성을 지원하지 않는다 
+    @Override
+    public void printMessage(PostItMessage postItMessage) {
+        System.out.println(postItMessage.print());
+    }
+    
+    // 오버라이딩 실패
+    // Java는 파라미터 반공변성을 지원하지 않는다 
+    @Override
+    public void printPostItMessage(Message message) {
+        System.out.println(message.print());
+    }
+}
+```
+
+## 패키지 매니저 
+- 개발 환경을 도와주는 관리자 
+- OS 별 패키지 매니저
+  - ubuntu: apt-get
+  - centos: yum
+  - redhat: rpm
+  - mac: brew
+- 언어 별 패키지 매니저
+  - java: maven, gradle
+  - nodejs: npm, yarn
+  - python: pip
+  - ruby: gem
+- 패키지 매니저들은 중앙 저장소를 갖고 있음 
+  - 중앙 저장소에서 가져와서 사용하는 것 
+
+
+## 리눅스 기본 커맨드 
+```shell
+# 파일 내용 출력 
+cat 
+
+# 단어 검색
+grep 
+
+# 파일이나 텍스트 통계 정보
+# 줄 수, 단어 수, 바이트 수 를 출력함  
+wc  
+
+# 줄 수만 출력하기
+wc -l
+
+# 파일의 마지막 부분 출력 (default=10 lines) 
+tail 
+
+# 마지막 첫 줄만 출력 
+tail -1
+
+# CPU 전체 정보
+cat /proc/cpuinfo
+
+# CPU 코어 개수 
+cat /proc/cpuinfo | grep 'processor' | wc -l
+
+# CPU 코어 모델 
+cat /proc/cpuinfo | grep 'model' | tail -1 
+
+# MEM 전체 정보 
+cat /proc/meminfo | grep 'MemTotal'
+
+# MEM 이용 정보
+free
+
+# 하드 용량 (disk free human-readable)
+df -h
+
+# 하드 사용량 (disk usage)
+du -h 
+
+# OS 정보 
+cat /etc/*-release | uniq
+
+# 서버 모니터링 
+top 
+
+# 로그 테일링: 실시간으로 파일을 모니터링하는 기능 
+tail -f /{로그파일명}
+```
