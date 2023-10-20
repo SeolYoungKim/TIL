@@ -255,6 +255,8 @@
 
 [NGINX 애플리케이션 성능 향상을 위한 10가지 팁](https://nginxstore.com/blog/nginx/nginx-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%ED%8C%81/)
 
+[기능 테스트 전환 이야기](https://spoqa.github.io/2023/10/20/functional-testing-converting-story.html?utm_source=oneoneone)
+
 
 
 
