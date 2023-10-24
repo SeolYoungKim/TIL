@@ -167,6 +167,7 @@ classDiagram
 - Testablilty가 낮아지고, SOLID를 위반하게 된다 
  
 ### 죽은 도메인 살리기 
+
 ```mermaid
 classDiagram
     direction LR
@@ -193,6 +194,7 @@ classDiagram
         
         class RepositoryImpl
     }
+    
     Controller --> Service
     ServiceImpl --|> Service
     ServiceImpl --> Domain
@@ -200,6 +202,7 @@ classDiagram
     RepositoryImpl --|> Repository
     RepositoryImpl --> JpaRepository
 ```
+
 
 - Domain layer를 만든다 
 - 서비스에 과하게 위임된 책임을 Domain에 전가한다 
