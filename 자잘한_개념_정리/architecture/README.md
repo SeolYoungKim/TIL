@@ -166,43 +166,8 @@ classDiagram
 - 규모가 커질수록 확장성이 매우 떨어진다
 - Testablilty가 낮아지고, SOLID를 위반하게 된다 
  
-### 죽은 도메인 살리기 
-
-```mermaid
-classDiagram
-    direction LR
-    namespace PresentationLayer {
-        class Controller
-        class Service {
-            <<interface>>
-        }
-    }
-    
-    namespace BusinessLayer {
-        class ServiceImpl
-        class Repository 
-    }
-
-    namespace DomainLayer {
-        class Domain
-    }
-    
-    namespace PersistenceLayer {
-        class JpaRepository {
-            <<interface>>
-        }
-        
-        class RepositoryImpl
-    }
-    
-    Controller --> Service
-    ServiceImpl --|> Service
-    ServiceImpl --> Domain
-    ServiceImpl --> Repository
-    RepositoryImpl --|> Repository
-    RepositoryImpl --> JpaRepository
-```
-
+### 죽은 도메인 살리기
+![img_7.png](img_7.png)
 
 - Domain layer를 만든다 
 - 서비스에 과하게 위임된 책임을 Domain에 전가한다 
