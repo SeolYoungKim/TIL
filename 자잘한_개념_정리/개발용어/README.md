@@ -283,3 +283,49 @@ tail -f /{로그파일명}
 - 도메인 엔티티와 DB 엔티티를 맵핑해주는 역할만 전담하는 다른 엔티티가 필요
 - 이를 도와주는 것이 영속성 객체고, Jpa(+Hibernate)라고 볼 수 있음 
 
+
+
+## 명령형 vs 선언형
+### 명령형(Imperative)
+- How에 집중하는 방식
+  - 프로그램한테 "이렇게 이렇게 해라"하고 명령하는 것. 절차 지향에 가까운 개념. 
+- 프로그래밍의 상태와, 상태를 변경시키는 구문의 관점에서 "연산"을 설명하는 프로그래밍 패러다임의 일종 
+- 즉, 컴퓨터가 수행할 명령들을 **순서대로 써놓은 것**을 말함
+- ex: github actions workflow (각 job이 뭘 해야 하는지를 명령함)
+
+### 선언형(Declarative)
+- What에 집중하는 방식 
+- 프로그램이 어떤 방법으로 해야하는지를 나타내기 보다, **무엇과 같은지를 설명하는 경우**에 선언형이라고 함 
+- 즉, **목표를 명시하고, 알고리즘을 명시하지 않는 것**을 말함 
+  - 방법은 신경쓰지 않음 
+- ex: 쿠버네티스 스펙 (각 서버를 어떤 스펙으로 몇 대를 유지해야 하는지를 선언함)
+
+
+
+## 프론트 용어 
+- 모달(modal)
+- 토스트(Toast)
+- 글로벌 네비게이션 바(GNB)
+- 로컬 네비게이션 바(LNB) : GNB의 특정 메뉴를 클릭해서 나오는 서브 메뉴 
+- Og tag : 웹 페이지가 소셜 미디어에 공유될 때, 미리보기로 나오는 정보 (제목, 설명을 알아서 추출)
+
+
+## release candidate(RC) - gamma or delta 
+```mermaid
+flowchart TB
+    subgraph TestingAndDevelop 
+        Pre-Alpha --> Alpha
+        Alpha --> Beta
+        Beta --> RC
+    end
+    subgraph ReleasePeriod 
+        RC --> ReleaseToManufacturing
+      ReleaseToManufacturing --> GeneralAvailability
+      GeneralAvailability --> Production
+    end
+```
+- 출시 후보 (배포하기 바로 직전)
+- 마지막 제품이 될 가능성이 있는 시험판(beta)
+  - 상당한 버그가 나타나지 않을 경우 출시할 준비가 되어씨음을 의미 
+- 프리뷰 릴리즈 버전으로도 불림 
+- GA(GeneralAvailability)의 경우, 범용적으로 사용 가능하다는 의미 
