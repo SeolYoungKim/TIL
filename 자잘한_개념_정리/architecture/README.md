@@ -39,7 +39,7 @@
 
 ### 일단 해두면 좋은 추상화 (추상화는 어디까지..?!)
 
-![img.png](img.png)
+![img.png](img/img.png)
 
 출처: [Java/Spring 주니어 개발자를 위한 오답노트](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/dashboard)
 
@@ -167,7 +167,7 @@ classDiagram
 - Testablilty가 낮아지고, SOLID를 위반하게 된다 
  
 ### 죽은 도메인 살리기
-![img_7.png](img_7.png)
+![img_7.png](img/img_7.png)
 
 - Domain layer를 만든다 
 - 서비스에 과하게 위임된 책임을 Domain에 전가한다 
@@ -226,9 +226,9 @@ classDiagram
     OutputAdapter--|>OutputPort
 ```
 
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_5.png](img_5.png)
+![img_2.png](img/img_2.png)
+![img_3.png](img/img_3.png)
+![img_5.png](img/img_5.png)
 - 그림 출처: [Java/Spring 주니어 개발자를 위한 오답노트](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/dashboard)
 
 ### 장점
@@ -236,11 +236,11 @@ classDiagram
 - 외부 세계에는 관심이 덜해지고, 소프트웨어는 오직 도메인에 충실함 
   - 외부 세계 : Spring, JPA ... 
 - 상향식 접근을 하면 된다 
-  - ![img_4.png](img_4.png)
+  - ![img_4.png](img/img_4.png)
   - 적어도 틀리지 않을 수 있음 
 
 ## 클린 아키텍처 
-![img_6.png](img_6.png)
+![img_6.png](img/img_6.png)
 - 헥사고날이 클린 아키텍처의 실전법일 뿐, 구성은 비슷하다
 - `???`는 클린 아키텍처에서 **험블(Humble)** 이라고 부른다 
   - 테스트 하기 어려운 부분을 의미 
@@ -279,3 +279,6 @@ classDiagram
 - 질의(Query)
   - 상태를 물어보는 메소드
   - 질의는 상태를 변경해서는 안됨 
+
+#### 적용 예
+![img_8.png](img/img_8.png)
