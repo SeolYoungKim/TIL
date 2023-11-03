@@ -261,6 +261,7 @@
 
 [멀티모듈 설계 이야기](https://techblog.woowahan.com/2637/)
 
+[영상 - 멀티모듈 관련 재생목록](https://youtube.com/playlist?list=PL8RgHPKtjlBh-LU_yUxFfIq_flizPm_vZ&si=BCTUahMQJLuf9DZ6)
 
 
 
