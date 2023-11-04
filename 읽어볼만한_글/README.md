@@ -263,7 +263,7 @@
 
 [영상 - 멀티모듈 관련 재생목록](https://youtube.com/playlist?list=PL8RgHPKtjlBh-LU_yUxFfIq_flizPm_vZ&si=BCTUahMQJLuf9DZ6)
 
-
+[그런 REST API로 괜찮은가?](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
 
 
