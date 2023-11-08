@@ -265,7 +265,7 @@
 
 [그런 REST API로 괜찮은가?](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 
-
+[null 리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2?utm_source=oneoneone)
 
 
 
