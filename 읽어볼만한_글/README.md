@@ -267,7 +267,7 @@
 
 [null 리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2?utm_source=oneoneone)
 
-
+[Discord가 한 대의 서버로 2백만명의 동시 사용자를 서빙하는 방법](https://news.hada.io/topic?id=11762)
 
 
 
