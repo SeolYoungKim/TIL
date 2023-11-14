@@ -269,7 +269,7 @@
 
 [Discord가 한 대의 서버로 2백만명의 동시 사용자를 서빙하는 방법](https://news.hada.io/topic?id=11762)
 
-
+[코드 배치와 변수 줄이기](https://jojoldu.tistory.com/745?utm_source=oneoneone)
 
 
 
