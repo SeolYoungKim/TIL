@@ -271,7 +271,9 @@
 
 [코드 배치와 변수 줄이기](https://jojoldu.tistory.com/745?utm_source=oneoneone)
 
+[CPU 이용률의 두 가지 얼굴](https://netmarble.engineering/cpu-core-usage-and-utilization/)
 
+[이상 탐지 1부 - 정상과 비정상, 그리고 이상 탐지](https://meetup.nhncloud.com/posts/362)
 
 
 
