@@ -275,7 +275,7 @@
 
 [이상 탐지 1부 - 정상과 비정상, 그리고 이상 탐지](https://meetup.nhncloud.com/posts/362)
 
-
+[영상 - api 테스트 주도 개발의 시작](https://www.youtube.com/watch?v=oDqHjwNbPrY)
 
 
 
