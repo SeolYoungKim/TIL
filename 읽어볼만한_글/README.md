@@ -277,8 +277,9 @@
 
 [영상 - api 테스트 주도 개발의 시작](https://www.youtube.com/watch?v=oDqHjwNbPrY)
 
+[Feign 코드 분석과 서버 성능 개선](https://toss.tech/article/engineering-note-3)
 
-
+[LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes)
 
 
 
