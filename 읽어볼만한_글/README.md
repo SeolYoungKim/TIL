@@ -281,7 +281,7 @@
 
 [LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes)
 
-
+[마이크로 서비스의 외부 API 패턴](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-2-be7888f2857e)
 
 
 
