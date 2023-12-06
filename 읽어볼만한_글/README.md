@@ -285,6 +285,8 @@
 
 [Elastic 가이드](https://esbook.kimjmin.net/)
 
+[블로킹 Vs. 논블로킹, 동기 Vs. 비동기](https://velog.io/@nittre/%EB%B8%94%EB%A1%9C%ED%82%B9-Vs.-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%8F%99%EA%B8%B0-Vs.-%EB%B9%84%EB%8F%99%EA%B8%B0)
+
 
 
 
