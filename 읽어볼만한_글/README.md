@@ -291,7 +291,9 @@
 
 [Java의 미래, Virtual Thread](https://techblog.woowahan.com/15398/)
 
+[MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 
+[카카오페이 온라인 결제 서비스 2.5배 성능 개선기](https://tech.kakaopay.com/post/improve-service-performance)
 
 
 
