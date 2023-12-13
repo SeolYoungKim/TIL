@@ -289,9 +289,11 @@
 
 [카프카 간략하게 살펴보기](https://medium.com/@greg.shiny82/apache-kafka-%EA%B0%84%EB%9E%B5%ED%95%98%EA%B2%8C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-343ad84a959b)
 
+[Java의 미래, Virtual Thread](https://techblog.woowahan.com/15398/)
 
+[MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 
-
+[카카오페이 온라인 결제 서비스 2.5배 성능 개선기](https://tech.kakaopay.com/post/improve-service-performance)
 
 
 
