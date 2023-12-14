@@ -297,5 +297,40 @@
 
 [HikariCP Dead lock에서 벗어나기 (실전편)](https://techblog.woowahan.com/2663/)
 
+[멀티 모듈을 설계하는 관점과 고려사항 with Spring & Gradle](https://mangkyu.tistory.com/304)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
