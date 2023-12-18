@@ -299,7 +299,7 @@
 
 [멀티 모듈을 설계하는 관점과 고려사항 with Spring & Gradle](https://mangkyu.tistory.com/304)
 
-
+[커밋 메세지 주도 개발](https://gyuwon.github.io/blog/2021/04/04/commit-message-driven-development.html)
 
 
 
