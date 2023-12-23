@@ -301,7 +301,7 @@
 
 [커밋 메세지 주도 개발](https://gyuwon.github.io/blog/2021/04/04/commit-message-driven-development.html)
 
-
+[영상 - Java virtual thread](https://youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn&si=7NRPXfFEvi7hHiyC)
 
 
 
