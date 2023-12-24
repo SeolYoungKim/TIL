@@ -303,8 +303,7 @@
 
 [영상 - Java virtual thread](https://youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn&si=7NRPXfFEvi7hHiyC)
 
-
-
+[영상 - 대규모 트랜잭션 배민](https://www.youtube.com/watch?v=WCwPSVu8mH8)
 
 
 
