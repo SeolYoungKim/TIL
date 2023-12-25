@@ -305,7 +305,9 @@
 
 [영상 - 대규모 트랜잭션 배민](https://www.youtube.com/watch?v=WCwPSVu8mH8)
 
+[Discovering Java Agents](https://medium.com/@faysalmehmood/discovering-java-agents-ab922a9e20d)
 
+[위 글을 찾게된 이유 - JDK21의 Dynamic Loading Agent 관련 경고](https://github.com/mockito/mockito/issues/3037)
 
 
 
