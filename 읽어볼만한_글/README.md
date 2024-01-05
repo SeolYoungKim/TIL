@@ -311,7 +311,7 @@
 
 [우와콘 2023 영상 모음](https://woowacon.com/presentations)
 
-
+[캐시 설계 전략](https://inpa.tistory.com/entry/REDIS-%F0%9F%93%9A-%EC%BA%90%EC%8B%9CCache-%EC%84%A4%E[…]0%84%EB%9E%B5-%EC%A7%80%EC%B9%A8-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 
 
 
