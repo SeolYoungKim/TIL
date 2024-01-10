@@ -315,6 +315,7 @@
 
 [29CM의 이굿위크 장애대응 기록](https://medium.com/@greg.shiny82/29cm-%EC%9D%98-%EC%9D%B4%EA%B5%BF%EC%9C%84%ED%81%AC-%EC%9E%A5%EC%95%A0%EB%8C%80%EC%9D%91-%EA%B8%B0%EB%A1%9D-177b6b2f07a0)
 
+[JDK8에서 Perm영역은 왜 삭제됐을까](https://johngrib.github.io/wiki/java8-why-permgen-removed/)
 
 
 
