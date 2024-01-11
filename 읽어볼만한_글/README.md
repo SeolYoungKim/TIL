@@ -317,7 +317,7 @@
 
 [JDK8에서 Perm영역은 왜 삭제됐을까](https://johngrib.github.io/wiki/java8-why-permgen-removed/)
 
-
+[로컬 캐시 선택하기](https://medium.com/uplusdevu/%EB%A1%9C%EC%BB%AC-%EC%BA%90%EC%8B%9C-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-e394202d5c87)
 
 
 
