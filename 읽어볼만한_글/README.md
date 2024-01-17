@@ -319,7 +319,7 @@
 
 [로컬 캐시 선택하기](https://medium.com/uplusdevu/%EB%A1%9C%EC%BB%AC-%EC%BA%90%EC%8B%9C-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-e394202d5c87)
 
-
+[트위터 시스템 디자인](https://medium.com/@narengowda/system-design-for-twitter-e737284afc95)
 
 
 
