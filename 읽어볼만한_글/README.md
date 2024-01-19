@@ -321,7 +321,7 @@
 
 [트위터 시스템 디자인](https://medium.com/@narengowda/system-design-for-twitter-e737284afc95)
 
-
+[Redis 아키텍처](https://assu10.github.io/dev/2022/09/03/redis-architecture/)
 
 
 
