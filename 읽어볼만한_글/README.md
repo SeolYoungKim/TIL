@@ -323,6 +323,7 @@
 
 [Redis 아키텍처](https://assu10.github.io/dev/2022/09/03/redis-architecture/)
 
+[JDBC 성능문제 네트워크 분석으로 파악하기](https://toss.tech/article/engineering-note-7?fbclid=IwAR2cSlpLkai5yEhEl2lCMWzNfrXkIXI9GITtiD3BFq6nF3BOxxWADoigkSc)
 
 
 
