@@ -325,6 +325,7 @@
 
 [JDBC 성능문제 네트워크 분석으로 파악하기](https://toss.tech/article/engineering-note-7?fbclid=IwAR2cSlpLkai5yEhEl2lCMWzNfrXkIXI9GITtiD3BFq6nF3BOxxWADoigkSc)
 
+[영상 - URL shortner](https://youtu.be/A7VkW8jGWZU?si=7XJG5oMp3sU-6E_p)
 
 
 
