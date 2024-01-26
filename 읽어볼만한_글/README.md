@@ -327,7 +327,7 @@
 
 [영상 - URL shortner](https://youtu.be/A7VkW8jGWZU?si=7XJG5oMp3sU-6E_p)
 
-
+[RESTful API 웹디자인](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
 
 
 
