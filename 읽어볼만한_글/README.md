@@ -329,7 +329,7 @@
 
 [RESTful API 웹디자인](https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
 
-
+[배달의 민족에서 금칙어를 관리하는 방법](https://techblog.woowahan.com/15764/)
 
 
 
