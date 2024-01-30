@@ -333,7 +333,7 @@
 
 [@Transactional의 해로움](https://channel.io/ko/blog/bad-transactional)
 
-
+[HMAC 인증](https://www.lesstif.com/ws/rest-api-hmac-87949394.html)
 
 
 
