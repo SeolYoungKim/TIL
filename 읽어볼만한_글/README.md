@@ -335,5 +335,6 @@
 
 [HMAC 인증](https://www.lesstif.com/ws/rest-api-hmac-87949394.html)
 
+[Transactional outbox pattern](https://velog.io/@eastperson/Transaction-Outbox-Pattern-알아보기)
 
 
