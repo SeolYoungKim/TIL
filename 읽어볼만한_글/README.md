@@ -337,4 +337,4 @@
 
 [Transactional outbox pattern](https://velog.io/@eastperson/Transaction-Outbox-Pattern-알아보기)
 
-
+[Null 리턴은 왜 나쁠까](https://toss.tech/article/engineering-note-2)
