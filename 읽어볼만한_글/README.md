@@ -338,3 +338,5 @@
 [Transactional outbox pattern](https://velog.io/@eastperson/Transaction-Outbox-Pattern-알아보기)
 
 [Null 리턴은 왜 나쁠까](https://toss.tech/article/engineering-note-2)
+
+[2023년-회고-프로젝트-퇴사-창업-채용-기술](https://dataportal.kr/2023년-회고-프로젝트-퇴사-창업-채용-기술/)
